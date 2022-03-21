@@ -1,0 +1,27 @@
+[
+    {
+    "name": "Facundo",
+    "email": "Facu@email.com",
+    "body": "Las mejores, el pan es de lo mejor que probe"
+    },
+    {
+    "name": "Gretel",
+    "email": "gre@email.com",
+    "body": "Las mejores burguers que probe en mi vida"
+    },
+    {
+    "name": "Agustin",
+    "email": "agus@email.com",
+    "body": "Voy a volver a probar todas las burgas"
+    },
+    {
+    "name": "Tomás",
+    "email": "tomi@email.com",
+    "body": "Excelentes, voy a volver"
+    },
+    {
+    "name": "Patricia",
+    "email": "pato@email.com",
+    "body": "Muy buenas!!!"
+    }
+]
